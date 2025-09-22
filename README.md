@@ -18,8 +18,6 @@ Throughout the course, I have gained experience in **web development, backend an
 
 ---
 
-## 🛠 Tecnologias e Linguagens / Technologies & Languages
-
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
