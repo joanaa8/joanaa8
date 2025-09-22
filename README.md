@@ -38,8 +38,6 @@ Throughout the course, I have gained experience in **web development, backend an
 ---
 
 ## 🛠️ Tools & IDEs
-
-### Frontend
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat&logo=figma)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
