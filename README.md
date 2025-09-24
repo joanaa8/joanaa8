@@ -42,11 +42,7 @@ Throughout the course, I have gained experience in **web development, backend an
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 
----
 
-## 🚀 Estatísticas / GitHub Stats
-![Joana's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanaa8&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joanaa8&layout=compact&theme=radical)
 
 
 ## 🎯 Objetivos / Goals
